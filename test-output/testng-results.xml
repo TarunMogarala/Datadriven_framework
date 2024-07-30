@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[No of rows is9]]>
+    </line>
+    <line>
+      <![CDATA[Customer-00000009024=======Customer-00000009024]]>
+    </line>
+    <line>
+      <![CDATA[Customer-00000009025=======Customer-00000009025]]>
+    </line>
+    <line>
+      <![CDATA[Customer-00000009026=======Customer-00000009026]]>
+    </line>
+    <line>
+      <![CDATA[Customer-00000009027=======Customer-00000009027]]>
+    </line>
+    <line>
+      <![CDATA[Customer-00000009028=======Customer-00000009028]]>
+    </line>
+    <line>
+      <![CDATA[Customer-00000009029=======Customer-00000009029]]>
+    </line>
+    <line>
+      <![CDATA[Customer-00000009030=======Customer-00000009030]]>
+    </line>
+    <line>
+      <![CDATA[Customer-00000009031=======Customer-00000009031]]>
+    </line>
+    <line>
+      <![CDATA[Customer-00000009032=======Customer-00000009032]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2024-07-23T09:36:36 IST" name="Default suite" finished-at="2024-07-23T09:38:37 IST" duration-ms="120716">
+    <groups>
+    </groups>
+    <test started-at="2024-07-23T09:36:36 IST" name="Default test" finished-at="2024-07-23T09:38:37 IST" duration-ms="120716">
+      <class name="driverFactory.CusDriverScript">
+        <test-method is-config="true" signature="launchapp()[pri:0, instance:driverFactory.CusDriverScript@61df66b6]" started-at="2024-07-23T09:36:36 IST" name="launchapp" finished-at="2024-07-23T09:36:45 IST" duration-ms="8153" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchapp -->
+        <test-method signature="start()[pri:0, instance:driverFactory.CusDriverScript@61df66b6]" started-at="2024-07-23T09:36:45 IST" name="start" finished-at="2024-07-23T09:38:36 IST" duration-ms="111205" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[No of rows is9]]>
+            </line>
+            <line>
+              <![CDATA[Customer-00000009024=======Customer-00000009024]]>
+            </line>
+            <line>
+              <![CDATA[Customer-00000009025=======Customer-00000009025]]>
+            </line>
+            <line>
+              <![CDATA[Customer-00000009026=======Customer-00000009026]]>
+            </line>
+            <line>
+              <![CDATA[Customer-00000009027=======Customer-00000009027]]>
+            </line>
+            <line>
+              <![CDATA[Customer-00000009028=======Customer-00000009028]]>
+            </line>
+            <line>
+              <![CDATA[Customer-00000009029=======Customer-00000009029]]>
+            </line>
+            <line>
+              <![CDATA[Customer-00000009030=======Customer-00000009030]]>
+            </line>
+            <line>
+              <![CDATA[Customer-00000009031=======Customer-00000009031]]>
+            </line>
+            <line>
+              <![CDATA[Customer-00000009032=======Customer-00000009032]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method is-config="true" signature="closeapp()[pri:0, instance:driverFactory.CusDriverScript@61df66b6]" started-at="2024-07-23T09:38:36 IST" name="closeapp" finished-at="2024-07-23T09:38:37 IST" duration-ms="1273" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeapp -->
+      </class> <!-- driverFactory.CusDriverScript -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
